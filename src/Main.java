@@ -92,7 +92,6 @@ public class Main {
         }
 
     }
-
     public static void task7() {
         System.out.println(" Задача 7");
         int numberOfFriday = 3;
@@ -100,7 +99,6 @@ public class Main {
             System.out.println(" Сегодня пятница, " + numberOfFriday + "-е число. Необходимо подготовить отчет");
         }
     }
-
     public static void task8() {
         System.out.println(" Задача 8");
         int currentYear = 2023;
